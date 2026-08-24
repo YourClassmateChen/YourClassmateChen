@@ -32,12 +32,12 @@
     <td width="50%" valign="top">
       <h2 align="left">💻 我的技术栈</h2>
       <br/>
-      <img src="https://skillicons.dev/icons?i=python,cs,dotnet,visualstudio,vscode,git,github,linux" />
+      <img src="https://skillicons.dev/icons?i=python,csvisualstudio,vscode,git,github" />
       <br/><br/>
       <p style="font-size: 15px; line-height: 1.8;">
-        ⚡ 主要语言：Python、C#<br/>
-        🛠️ 常用工具：VS Code、Visual Studio、Git<br/>
-        📚 正在学习：Web 开发技术
+        主要语言：Python、C#<br/>
+        常用工具：VS Code、Visual Studio、Git<br/>
+        正在学习：Web 开发技术
       </p>
     </td>
     <!-- 右下角：使用语言 -->
