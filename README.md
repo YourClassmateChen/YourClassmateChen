@@ -17,7 +17,7 @@
     </td>
     <!-- 右上角：GitHub 统计 -->
     <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=YourClassmateChen&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&hide_title=true" width="100%" />
+      <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=YourClassmateChen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     </td>
   </tr>
 </table>
