@@ -31,7 +31,7 @@
   <tr>
     <!-- 左下角：技术栈 -->
     <td width="50%" valign="top">
-      <h2 align="left">💻 我的技术栈</h2>
+      <h2 align="left">&gt; 我的技术栈</h2>
       <br/>
       <img src="https://skillicons.dev/icons?i=python,cs,visualstudio,vscode,git,github,jj,jj" />
       <br/><br/>
