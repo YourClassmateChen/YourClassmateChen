@@ -10,6 +10,11 @@
         只是一个普通的开发者<br/>
         随便写点什么...<br/>
         欢迎来我的<a href="http://106.53.213.36/">博客</a>瞧瞧
+        <a href="https://github.com/LadderStep" target="_blank">
+          <button style="padding: 12px 24px; font-size: 16px; background-color: #58A6FF; color: white; border: none; border-radius: 8px; cursor: pointer;">
+            前往 GitHub
+          </button>
+        </a>
       </p>
       <p align="left">
         <img src="https://komarev.com/ghpvc/?username=YourClassmateChen&label=Profile%20Views&color=0e75b6&style=flat" />
