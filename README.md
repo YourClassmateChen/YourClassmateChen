@@ -18,8 +18,7 @@
     <!-- 右上角：GitHub 统计 -->
     
     <td width="50%" valign="top" align="center">
-        <h2 align="center">💻 Github统计</h2>
-      <br/>
+
       <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=YourClassmateChen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     </td>
   </tr>
