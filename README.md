@@ -7,9 +7,8 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&duration=4000&pause=1000&color=58A6FF&vCenter=true&width=350&height=50&lines=Hi,+I'm+LadderStep!" />
       </h1>
       <p align="left" style="font-size: 16px; line-height: 1.8;">
-        🚀 热爱编程，不断学习<br/>
-        💻 Python & C# 开发者<br/>
-        🌱 正在探索更多技术领域
+        一个普通的开发者<br/>
+        随便写的什么...
       </p>
       <p align="left">
         <img src="https://komarev.com/ghpvc/?username=YourClassmateChen&label=Profile%20Views&color=0e75b6&style=flat" />
