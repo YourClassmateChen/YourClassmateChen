@@ -5,11 +5,7 @@ Hi, I'm LadderStep!
 <br/>
 
 <div align="center">
-
   随便写点什么...
-  常用技术栈 **Python**
-  正在研究 **C#**
- 
  </div>
  
 <hr/>
