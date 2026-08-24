@@ -1,19 +1,4 @@
 <!-- ==================== 第一行：左上 + 右上 ==================== -->
- <style>
-a,
-
-a:link,
-
-a:visited,
-
-a:hover,
-
-a:active {
-
-  text-decoration: none;
-
-}
- </style>
 <table width="100%">
   <tr>
     <!-- 左上角：欢迎语 -->
