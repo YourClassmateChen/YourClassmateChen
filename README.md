@@ -7,7 +7,7 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&duration=4000&pause=1000&color=58A6FF&vCenter=true&width=350&height=50&lines=Hi,+I'm+LadderStep!" />
       </h1>
       <p align="left" style="font-size: 16px; line-height: 1.8;">
-        一个普通的开发者<br/>
+        只是一个普通的开发者<br/>
         随便写点什么...
       </p>
       <p align="left">
@@ -36,8 +36,8 @@
       <br/><br/>
       <p style="font-size: 15px; line-height: 1.8;">
         主要语言：Python、C#<br/>
-        常用工具：VS Code、Visual Studio、Git<br/>
-        正在学习：Web 开发技术
+        常用工具：VS Code、Visual Studio、PyCharm<br/>
+        正在学习：Unity开发
       </p>
     </td>
     <!-- 右下角：使用语言 -->
