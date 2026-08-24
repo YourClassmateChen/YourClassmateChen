@@ -4,7 +4,7 @@
     <!-- 左上角：欢迎语 -->
     <td width="50%" valign="top">
       <h1 align="left">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&duration=4000&pause=1000&color=58A6FF&vCenter=true&width=350&height=50&lines=Hi,+I'm+LadderStep!+👋" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&duration=4000&pause=1000&color=58A6FF&vCenter=true&width=350&height=50&lines=Hi,+I'm+LadderStep!" />
       </h1>
       <p align="left" style="font-size: 16px; line-height: 1.8;">
         🚀 热爱编程，不断学习<br/>
