@@ -19,7 +19,7 @@
     <td width="50%" valign="top" align="center" style="border: none; padding: 10px;">
       <h2 align="center">💻 Github统计</h2>
       <br/>
-      <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=LadderStep&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+      <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=YourClassmateChen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     </td>
   </tr>
 </table>
@@ -45,7 +45,7 @@
     <td width="50%" valign="top" align="center" style="border: none; padding: 10px;">
       <h2 align="center">📊 使用语言</h2>
       <br/>
-      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=LadderStep&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117" width="90%" />
+      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YourClassmateChen&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117" width="90%" />
     </td>
   </tr>
 </table>
