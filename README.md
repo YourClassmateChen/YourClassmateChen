@@ -5,8 +5,10 @@ Hi, I'm LadderStep!
 <br/>
 
 <div align="center">
- 
- 🔭 我目前正在研究 **78**
+
+  随便写点什么...
+  常用技术栈 **Python**
+  正在研究 **C#**
  
  </div>
  
