@@ -1,8 +1,16 @@
 <!-- ==================== 第一行：左上 + 右上 ==================== -->
  <style>
-a{
+a,
 
-text-decoration: none;
+a:link,
+
+a:visited,
+
+a:hover,
+
+a:active {
+
+  text-decoration: none;
 
 }
  </style>
