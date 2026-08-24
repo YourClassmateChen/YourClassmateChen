@@ -55,8 +55,7 @@
 <h2 align="center">📫 联系我</h2>
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><button onclick="window.location.href='mailto:your-email@example.com'">Gmail</button></a>
-  <a href="https://www.linkedin.com/in/yourprofile/"><button onclick="window.open('https://www.linkedin.com/in/yourprofile/', '_blank')">LinkedIn</button></a>
+  <a href="mailto:your-email@example.com"><button onclick="window.location.href='mailto:polar_dimension@qq.com'">Email</button></a>
   <a href="https://twitter.com/yourprofile"><button onclick="window.open('https://space.bilibili.com/1996208073', '_blank')">bilibili</button></a>
   <a href="https://yourblog.com/"><button onclick="window.open('http://106.53.213.36/', '_blank')">Blog</button></a>
 </p>
