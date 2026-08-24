@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourClassmateChen)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YourClassmateChen&theme=tokyonight" width="32%" />
