@@ -8,7 +8,8 @@
       </h1>
       <p align="left" style="font-size: 16px; line-height: 1.8;">
         只是一个普通的开发者<br/>
-        随便写点什么...
+        随便写点什么...<br/>
+        欢迎来我的<a href="http://106.53.213.36/">博客</a>瞧瞧
       </p>
       <p align="left">
         <img src="https://komarev.com/ghpvc/?username=YourClassmateChen&label=Profile%20Views&color=0e75b6&style=flat" />
