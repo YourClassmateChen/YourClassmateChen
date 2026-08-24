@@ -52,25 +52,20 @@
 
 <br/>
 
-<!-- ==================== 第三行：底部联系我 ==================== -->
-<table width="100%">
-  <tr>
-    <td align="center">
-      <h2>📫 联系我</h2>
-      <br/>
-      <a href="mailto:your-email@example.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <a href="https://www.linkedin.com/in/yourprofile/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="https://twitter.com/yourprofile">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-      </a>
-      <a href="https://yourblog.com/">
-        <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-      </a>
-      <br/><br/><br/>
+<h2 align="center">📫 联系我</h2>
+
+<p align="center">
+  <a href="mailto:your-email@example.com"><button onclick="window.location.href='mailto:your-email@example.com'">Gmail</button></a>
+  <a href="https://www.linkedin.com/in/yourprofile/"><button onclick="window.open('https://www.linkedin.com/in/yourprofile/', '_blank')">LinkedIn</button></a>
+  <a href="https://twitter.com/yourprofile"><button onclick="window.open('https://twitter.com/yourprofile', '_blank')">Twitter</button></a>
+  <a href="https://yourblog.com/"><button onclick="window.open('https://yourblog.com/', '_blank')">Blog</button></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=感谢+你的+访问!+🌟;Happy+Coding!+🚀" />
+</p>
       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=感谢+你的+访问!+🌟;Happy+Coding!+🚀" />
     </td>
   </tr>
