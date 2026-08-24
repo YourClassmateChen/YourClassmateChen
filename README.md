@@ -1,7 +1,7 @@
-<!-- ========== 左上角：欢迎语 ========== -->
+<!-- ==================== 第一行：左上 + 右上 ==================== -->
 <table width="100%">
   <tr>
-    <!-- 左列：欢迎语 + 个人简介 -->
+    <!-- 左上角：欢迎语 -->
     <td width="50%" valign="top">
       <h1 align="left">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&duration=4000&pause=1000&color=58A6FF&vCenter=true&width=350&height=50&lines=Hi,+I'm+LadderStep!+👋" />
@@ -15,7 +15,7 @@
         <img src="https://komarev.com/ghpvc/?username=YourClassmateChen&label=Profile%20Views&color=0e75b6&style=flat" />
       </p>
     </td>
-    <!-- 右列：GitHub 统计卡片 -->
+    <!-- 右上角：GitHub 统计 -->
     <td width="50%" valign="top" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=YourClassmateChen&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&hide_title=true" width="100%" />
     </td>
@@ -24,29 +24,10 @@
 
 <br/>
 
-<!-- ========== 中间区域：两张统计卡片并排 ========== -->
+<!-- ==================== 第二行：左下 + 右下 ==================== -->
 <table width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=YourClassmateChen&count_private=true&theme=react&border_radius=10&hide_border=true&bg_color=0D1117" width="95%" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=YourClassmateChen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true&bg_color=0D1117&hide_title=true" width="95%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <br/>
-      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YourClassmateChen&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117" width="60%" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========== 左下角：技术栈 ========== -->
-<table width="100%">
-  <tr>
+    <!-- 左下角：技术栈 -->
     <td width="50%" valign="top">
       <h2 align="left">💻 我的技术栈</h2>
       <br/>
@@ -58,16 +39,18 @@
         📚 正在学习：Web 开发技术
       </p>
     </td>
+    <!-- 右下角：使用语言 -->
     <td width="50%" valign="top" align="center">
-      <!-- 右侧装饰：奖杯 -->
-      <img src="https://github-profile-trophy.vercel.app/?username=YourClassmateChen&theme=radical&no-frame=true&no-bg=true&row=1&column=5" width="100%" />
+      <h2 align="center">📊 使用语言</h2>
+      <br/>
+      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YourClassmateChen&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117" width="90%" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ========== 底部：联系我 ========== -->
+<!-- ==================== 第三行：底部联系我 ==================== -->
 <table width="100%">
   <tr>
     <td align="center">
