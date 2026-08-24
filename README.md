@@ -31,16 +31,6 @@ Hi, I'm LadderStep!
 <hr/>
 
 
-
-
-<h2 align="center">📈 本周编码统计</h2>
-<br/>
-<div align=center>
-  <!-- 如果你使用 WakaTime，可以开启这个功能 -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YourClassmateChen&theme=react&border_radius=10" /> -->
-  <p>💻 每天都在学习和进步中...</p>
-</div>
-
 <br/>
 <hr/>
 
