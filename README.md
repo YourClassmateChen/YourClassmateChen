@@ -15,7 +15,7 @@
 <h2 align="center">⚒️ 技术栈 & 工具 ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c#" />
+    <img src="https://skillicons.dev/icons?i=python,cs" />
 </div>
 
 <br/>
