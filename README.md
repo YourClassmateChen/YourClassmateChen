@@ -32,7 +32,7 @@
     <td width="50%" valign="top">
       <h2 align="left">💻 我的技术栈</h2>
       <br/>
-      <img src="https://skillicons.dev/icons?i=python,cs,visualstudio,vscode,git,github" />
+      <img src="https://skillicons.dev/icons?i=python,cs,visualstudio,vscode,git,github,jj" />
       <br/><br/>
       <p style="font-size: 15px; line-height: 1.8;">
         主要语言：Python、C#<br/>
